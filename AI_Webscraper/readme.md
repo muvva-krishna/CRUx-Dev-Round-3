@@ -39,3 +39,7 @@ pip install -r requirements.txt
 In the command prompt or terminal, run the following command to start the Streamlit application:
 
 streamlit run app.py
+
+![Screenshot 2024-11-04 191248](https://github.com/user-attachments/assets/fdb8636d-3767-4b2d-97f5-0a2e8a300a3b)
+
+
