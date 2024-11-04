@@ -20,7 +20,9 @@ git clone https://github.com/yourusername/impartus-view-automation.git
 cd impartus-view-automation
 
 IMPARTUS_USERNAME=your_username
+
 IMPARTUS_PASSWORD=your_password
+
 GROQ_API_KEY=your_groq_api_key
 
 python Video-Capture-Yolo.py
