@@ -2,8 +2,7 @@
 ![WhatsApp Image 2024-11-05 at 04 11 06_8b9df3f3](https://github.com/user-attachments/assets/57154278-926c-4e24-a5ee-270be57cfa7a)
 
 **Impartus View Automation and Summarizer**
-This project automates view adjustments and summarizes le![Uploading WhatsApp Image 2024-11-05 at 04.11.06_7bbe5f82.jpg…]()
-cture content from Impartus video lectures. By detecting the professor's presence using YOLOv5 and capturing lecture slides, this tool provides both an optimized viewing experience and a summary of key topics discussed.
+This project automates view adjustments and summarizes lecture content from Impartus video lectures. By detecting the professor's presence using YOLOv5 and capturing lecture slides, this tool provides both an optimized viewing experience and a summary of key topics discussed.
 Video-Capture-Yolo.py - This file captures screenshots of impartus videos and detects professors using Yolo v5 model and changes view accordingly.
 
 **Features**
@@ -28,6 +27,8 @@ IMPARTUS_USERNAME=your_username
 IMPARTUS_PASSWORD=your_password
 
 GROQ_API_KEY=your_groq_api_key
+
+*note:groq does not work on bits wifi
 
 python Video-Capture-Yolo.py
 python Summary.py
