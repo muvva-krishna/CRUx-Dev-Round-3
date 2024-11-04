@@ -1,4 +1,5 @@
-**AI-Powered Web Scraper******
+**AI-Powered Web Scraper**
+
 This AI-powered web scraping tool enables users to extract data from web pages based on specific tags or structures. The application is built using Streamlit for the user interface, Selenium for web automation, and OpenAI for intelligent parsing. This tool allows users to extract structured information, including pagination handling, and export data in JSON or CSV formats.
 
 **Features**
