@@ -8,7 +8,8 @@ Video-Capture-Yolo.py - This file captures screenshots of impartus videos and de
 
 **Features**
 **Automated View Adjustment:** Detects the professor in the video and automatically switches views to ensure they remain in frame. This is ideal for maintaining focus during lectures.
-Lecture Summarization: Captures slides and generates a summary of the lecture content using an LLM (Large Language Model). The summary is displayed alongside the video for easy reference.
+Lecture Summarization: Captures slides and generates a summary of the lecture content using an LLM (Large Language Model). The summary is displayed alongside the video for easy reference and you can also view the summary taught in the lecture as it gets saved in a text file in your device
+
 **Downloadable Slides:** Option to download relevant lecture slides with extraneous slides (like blank screens or desktop views) filtered out.
 
 
