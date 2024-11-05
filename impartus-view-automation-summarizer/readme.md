@@ -1,5 +1,6 @@
 ![WhatsApp Image 2024-11-05 at 04 11 07_b1b9d4e2](https://github.com/user-attachments/assets/8af27ad1-df8e-4a74-b3b8-234d9ab90283)
-![WhatsApp Image 2024-11-05 at 04 11 06_8b9df3f3](https://github.com/user-attachments/assets/57154278-926c-4e24-a5ee-270be57cfa7a)
+
+![WhatsApp Image 2024-11-05 at 04 11 07_0a3aab7c](https://github.com/user-attachments/assets/49de9e64-38a2-46ce-9806-1c7ac484e72c)
 
 **Impartus View Automation and Summarizer**
 This project automates view adjustments and summarizes lecture content from Impartus video lectures. By detecting the professor's presence using YOLOv5 and capturing lecture slides, this tool provides both an optimized viewing experience and a summary of key topics discussed.
@@ -19,7 +20,7 @@ pip install git+https://github.com/ultralytics/ultralytics.git@main
 
 Ensure you also download the YOLOv5 model for professor detection.
 
-git clone https://github.com/yourusername/impartus-view-automation.git
+git clone https://github.com/muvva-krishna/CRUx-Dev-Round-3/tree/main/impartus-view-automation-summarizer.git
 cd impartus-view-automation
 
 IMPARTUS_USERNAME=your_username
