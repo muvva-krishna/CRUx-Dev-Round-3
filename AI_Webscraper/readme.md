@@ -17,8 +17,7 @@ Getting Started
 
 **1. Clone the Repository**
 
-git clone 
-cd your-repo-name
+
 
 **2. Set Up Environment Variables**
 
