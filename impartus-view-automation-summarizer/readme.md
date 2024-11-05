@@ -20,7 +20,7 @@ pip install git+https://github.com/ultralytics/ultralytics.git@main
 
 Ensure you also download the YOLOv5 model for professor detection.
 
-git clone https://github.com/muvva-krishna/CRUx-Dev-Round-3/tree/main/impartus-view-automation-summarizer.git
+git clone 
 cd impartus-view-automation
 
 IMPARTUS_USERNAME=your_username
