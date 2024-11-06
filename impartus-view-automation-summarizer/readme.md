@@ -33,7 +33,7 @@ GROQ_API_KEY=your_groq_api_key
 **note:groq does not work on bits wifi**
 ```
 python Video-Capture-Yolo.py
-python Summary.py
+python summary.py
 ```
 
 
