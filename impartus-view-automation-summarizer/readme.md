@@ -42,3 +42,6 @@ python Summary.py
 Automated View: The Video-Capture-Yolo.py script will run in the background, adjusting views automatically based on the professor's position.
 Generate Summary: Running Summary.py will generate a short summary alongside the video. The summary is based on captured slides and audio.
 Download Relevant Slides: After summarization, irrelevant slides (such as blank or desktop views) will be excluded, providing a clean set of downloadable lecture slides.
+
+Enter the input path of the downloaded lecture pdf in filter_pdf.py to get a saved copy of the relevant slides only.
+process may take upto 1-2 minutes.
