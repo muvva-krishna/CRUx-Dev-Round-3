@@ -22,7 +22,7 @@ pip install git+https://github.com/ultralytics/ultralytics.git@main
 Ensure you also download the YOLOv5 model for professor detection.
 ```
 git clone https://github.com/muvva-krishna/CRUx-Dev-Round-3.git
-cd impartus-view-automation
+cd impartus-view-automation-summarization
 ```
 IMPARTUS_USERNAME=your_username
 
@@ -32,7 +32,7 @@ GROQ_API_KEY=your_groq_api_key
 
 **note:groq does not work on bits wifi**
 ```
-python Video-Capture-Yolo.py
+python video-capture-yolo.py
 python summary.py
 ```
 
