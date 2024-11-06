@@ -1,0 +1,10 @@
+numpy
+pillow
+opencv-python
+pytesseract
+python-dotenv
+pymupdf
+torch
+selenium
+openai
+groq
