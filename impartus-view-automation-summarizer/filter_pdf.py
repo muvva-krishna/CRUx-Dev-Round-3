@@ -11,7 +11,7 @@ load_dotenv()
 
 # Initialize Groq client with API key
 client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY")  # Ensure this environment variable is set
+    api_key=os.environ.get("GROQ_API_KEY")
 )
 
 def extract_images_from_pdf(pdf_file):
@@ -83,7 +83,6 @@ def save_relevant_pages_to_pdf(input_pdf_path, relevant_pages, output_pdf_path="
     relevant_images[0].save(output_pdf_path, save_all=True, append_images=relevant_images[1:])
     print("Filtered PDF saved as:", output_pdf_path)
 
-# Main Process
 input_pdf_path = input("Enter the path to the PDF file: ")
 relevant_pages = get_relevant_pages_from_pdf(input_pdf_path)
 save_relevant_pages_to_pdf(input_pdf_path, relevant_pages)
