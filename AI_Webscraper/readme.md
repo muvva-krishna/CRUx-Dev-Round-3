@@ -1,3 +1,5 @@
+![Screenshot 2024-11-04 191248](https://github.com/user-attachments/assets/fdb8636d-3767-4b2d-97f5-0a2e8a300a3b)
+
 **AI-Powered Web Scraper**
 
 This AI-powered web scraping tool enables users to extract data from web pages based on specific tags or structures. The application is built using Streamlit for the user interface, Selenium for web automation, and OpenAI for intelligent parsing. This tool allows users to extract structured information, including pagination handling, and export data in JSON or CSV formats.
@@ -39,6 +41,5 @@ In the command prompt or terminal, run the following command to start the Stream
 
 streamlit run app.py
 
-![Screenshot 2024-11-04 191248](https://github.com/user-attachments/assets/fdb8636d-3767-4b2d-97f5-0a2e8a300a3b)
 
 
